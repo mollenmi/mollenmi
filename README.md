@@ -1,4 +1,4 @@
-![logo](https://github.com/mollenmi/mollenmi/blob/main/pop.png)
+![logo](https://github.com/mollenmi/mollenmi/blob/main/wallpaperflare.com_wallpaper.jpg)
 <h1 align="center">Hello 👋, It's me Navneet kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
