@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, It's me Navneet kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">
+<img align="right" alt="coding" width="400" src="https://github.com/mollenmi/mollenmi/blob/main/3EqV.gif">
 
 <p align="left"> <a href="https://twitter.com/mollen_0_mist" target="blank"><img src="https://img.shields.io/twitter/follow/mollen_0_mist?logo=twitter&style=for-the-badge" alt="mollen_0_mist" /></a> </p>
 
