@@ -26,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mollenmi&show_icons=true&locale=en&layout=compact" alt="mollenmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mollenmi&show_icons=true&locale=en" alt="mollenmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mollenmi&" alt="mollenmi" /></p>
